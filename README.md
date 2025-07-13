@@ -5,7 +5,7 @@ Whackerlink Server Launcher Application
 The Whackerlink Server Launcher, is a application that can be conbined with the Whackerlink Server "Whackerlink_v4" from the Whackerlink FiveM Radio creators.
 
 Installation:
-              1. Download the Files from this Repo as a zip.
+              1. Download the Files from this Repos releases as a zip.
               2. Unzip the files on your Machine that is hosting the Whackerlink Server
               3. Move or copy and paste the files into the same folder as your whackerlinkserver.exe.
               5. make sure your server config is in a folder called configs. (it can be named anything)
