@@ -27,7 +27,7 @@ FILE STRUCTER:
                                 
 IDEOLOGY:
           The idea behind this app was to make it easier on the end user of Whackerlink, as someone who self-hosted the whackerlink server I did not like the hassel of having to open a
-          Powershell window within file explorer and type ir coy and paste a command line each time i needed to start the WL server. This wasnt very oftem but there was time like when my
+          Powershell window within file explorer and type in or copy and paste a command line each time I needed to start the W.L. server. This wasn't very oftem but there was time like when my
           machine needed to update and restart or there was an outage of some sort, just any reason the server instance would be terminated. So I built this application to make it easier to start.
           Just a doubleclick of the WhackerLinkSeerverLauncher.exe will do everything for you, it will also tell you which config you are using as it searches the config folder for one. it also logs
           in the logs folder. Thanks for looking and I hope it helps you out in the future!
