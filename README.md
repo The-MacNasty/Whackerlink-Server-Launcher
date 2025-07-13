@@ -12,7 +12,7 @@ Installation:
 
 Source: If you are downloading the source code, Im assuming you know a little bit about C#. This is my first App I have ever built. I am still learning about coding and building resources so I can't help a whole lot on anything else. If you have questions about this App ask away I will try my best to help!
 
-FILE STRUCTER:
+FILE STRUCTURE:
               Your file structure should look like this. (should work directly with an untouched release of WhackerLinkServer_R01.14.00.)
 
                 Whackerlinkserver(main folder)
